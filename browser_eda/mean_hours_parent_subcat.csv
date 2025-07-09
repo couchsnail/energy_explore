@@ -1,0 +1,29 @@
+index,parent_category,sub_category,avg_duration_hour
+13,private,private,105.90778758469435
+12,other,unclassified,86.59371014227143
+6,entertainment,video streaming,79.3661126336764
+10,mail,mail,16.832689198948817
+27,social,social network,15.90225337070082
+23,search,search,13.909879255895277
+24,shopping,shopping,10.659515597666376
+5,entertainment,other,10.248016448210297
+19,productivity,spreadsheets,8.253752623317691
+8,games,other,7.38033337773582
+3,education,education,7.273094074118174
+11,news,news,7.1697225090812555
+25,social,communication,6.405934069377404
+26,social,communication - live,6.137270297009476
+20,productivity,word processing,4.985312100774012
+22,reference,reference,4.026677554893658
+15,productivity,other,3.696956438850253
+7,finance,banking and accounting,3.638598881369931
+16,productivity,presentations,3.165324347186822
+21,recreation,travel,2.8694991618738177
+18,productivity,project management,2.7707039878484108
+4,entertainment,music / audio streaming,2.5211325293616262
+2,content creation,web design / development,2.356978784210743
+17,productivity,programming,1.4920663693841054
+0,content creation,photo edit/creation,0.8261097489485509
+9,games,video games,0.34738329564142834
+1,content creation,video/audio edit/creation,0.28369750011908845
+14,productivity,crm,0.21515836462971905
